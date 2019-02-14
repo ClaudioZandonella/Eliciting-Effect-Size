@@ -1,9 +1,7 @@
----
-title: "Eliciting Effect Size - Shiny App"
-author: "Zandonella Callegher, Toffalini & Altoè"
-bibliography: ["App.bib"]
-output: html_document
----
+
+# Eliciting Effect Size - Shiny App
+
+C. Zandonella Callegher, E. Toffalini & G. Altoè
 
 <hr>
 
@@ -13,22 +11,19 @@ The present Shiny-App is an example of user-friendly method to directly elicit a
 
 <br>
 
-<center><h4>
-*Who is taller between boys and girls?*
-</h4></center>
+<center><h4><i>
+Who is taller between boys and girls?
+</i></h4></center>
 
 <br>
 
 It looks like an easy question, but would you be able to evaluate how the average heights of boys and girls change according to age? <br>
-The present App will drive the user through an elicitation process, using an adaptation of the 'trial roulette' approach [@gore_biostatistics_1987], to answer to the above question. The user will assign chisp on possible values according to his or her knowledge and uncertanty. 
+The present App will drive the user through an elicitation process, using an adaptation of the 'trial roulette' approach, to answer to the above question. The user will assign chisp on possible values according to his or her knowledge and uncertanty. 
 <br>
-However, users will not refer to heights in meters or centimeters, but to the probability of being taller in a comparison. This allows to consider effects sizes in terms of the *probability of superiority* [@ruscio_probability-based_2008; @vargha_critique_2000] or *Cohen's $U_3$* index [@cohen_statistical_1988]. These different formulations have the advantage to not refer to any unit of measure but only to probabilities.
-
-
+However, users will not refer to heights in meters or centimeters, but to the probability of being taller in a comparison. This allows to consider effects sizes in terms of the <i>probability of superiority</i> or <i>Cohen's U<sub>3;</sub> </i> index. These different formulations have the advantages to not refer to any unit of measure but only to probabilities and can be more easily understood.
 
 
 <br>
 
 <br>
 
-### References
