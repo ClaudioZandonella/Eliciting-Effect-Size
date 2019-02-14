@@ -1,7 +1,6 @@
 
 # Eliciting Effect Size - Shiny App
-
-C. Zandonella Callegher, E. Toffalini & G. Altoè
+#### C. Zandonella Callegher, E. Toffalini & G. Altoè
 
 <hr>
 
