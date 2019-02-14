@@ -7,7 +7,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2564852.svg)](https://doi.org/10.5281/zenodo.2564852)
 <br>
 
-The present Shiny-App is an example of user-friendly method to directly elicit and formalize experts' knowledge about effect sizes when we are interested in the difference between the mean scores of two groups on a continuous variable. We used as an example boys and girls heights. 
+The present Shiny-App is an example of user-friendly method to directly elicit and formalize experts' knowledge about effect sizes when we are interested in the difference between the mean scores of two groups on a continuous variable. We used as an example average boys' and girls' height. 
 
 <br>
 
