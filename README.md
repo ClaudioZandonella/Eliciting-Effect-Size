@@ -23,6 +23,6 @@ However, users will not refer to heights in meters or centimeters, but only to t
 
 
 <br>
-
+<image src="https://github.com/ClaudioZandonella/Eliciting-Effect-Size/blob/master/Shiny.logo.png" width="350" class="center">
 <br>
 
