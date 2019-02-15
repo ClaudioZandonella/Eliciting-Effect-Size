@@ -413,10 +413,10 @@ server <- function(input, output, session) {
     
     if(nfiches$n<2){
       
-      if (input$plot_click$x<0){
+      if (input$plot_click$x<(-.25)){
         shinyalert("Oops...", "You can only select values between 0 and 10.", type = "warning", closeOnClickOutside = TRUE)
       }
-      else if (input$plot_click$x>10){
+      else if (input$plot_click$x>10.24){
         shinyalert("Oops...", "You can only select values between 0 and 10.", type = "warning", closeOnClickOutside = TRUE)
       }
       else {
