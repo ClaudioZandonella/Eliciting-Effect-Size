@@ -30,7 +30,10 @@ In order to run the app you have to download all the material you find in the "S
 In the first part of the App code you find the "Customizable Settings" section where you can change some aspects of the App.
 
 
+
 <br>
+<center>
 <image src="https://github.com/ClaudioZandonella/Eliciting-Effect-Size/blob/master/Shiny.logo.png" width="350" class="center">
+</center>
 <br>
 
