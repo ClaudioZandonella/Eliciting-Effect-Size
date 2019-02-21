@@ -32,8 +32,8 @@ In the first part of the App code you find the "Customizable Settings" section w
 
 
 <br>
-<center>
+<p align="center">
 <image src="https://github.com/ClaudioZandonella/Eliciting-Effect-Size/blob/master/Shiny.logo.png" width="350" class="center">
-</center>
+</p>
 <br>
 
