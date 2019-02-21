@@ -22,6 +22,13 @@ The present App will drive the user through an elicitation process, using an ada
 <br>
 However, users will not refer to heights in meters or centimeters, but only to the probability of being taller in a comparison. This allows to consider effects sizes in terms of the <i>probability of superiority</i> or <i>Cohen's U<sub>3;</sub> </i> index. These different formulations have the advantages to not refer to any unit of measure but only to probabilities and can be more easily understood.
 
+<br>
+
+## App Guide
+
+In order to run the app you have to download all the material you find in the "Shiny App" folder (Remember the "www" folder).
+On the first part of the App code you find the "Customizable Settings" section where you can change some aspects of the App.
+
 
 <br>
 <image src="https://github.com/ClaudioZandonella/Eliciting-Effect-Size/blob/master/Shiny.logo.png" width="350" class="center">
