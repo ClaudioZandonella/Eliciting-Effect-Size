@@ -27,7 +27,7 @@ However, users will not refer to heights in meters or centimeters, but only to t
 ## App Guide
 
 In order to run the app you have to download all the material you find in the "Shiny App" folder (Remember the "www" folder).
-On the first part of the App code you find the "Customizable Settings" section where you can change some aspects of the App.
+In the first part of the App code you find the "Customizable Settings" section where you can change some aspects of the App.
 
 
 <br>
