@@ -26,8 +26,12 @@ However, users will not refer to heights in meters or centimeters, but only to t
 
 ## App Guide
 
-In order to run the app you have to download all the material you find in the "Shiny App" folder (Remember the "www" folder).
-In the first part of the App code you find the "Customizable Settings" section where you can change some aspects of the App.
+In order to run the app you have to download all the material you find in the "Shiny App" folder (remember the "www" folder).
+In the first part of the App code you find the "Customizable Settings" section where you can change some aspects of the App as the number of chips used, the ages to consider, wich index to consider ("CL" or "U<sub>3;</sub>") and other settings.
+
+<br>
+
+For any other further information you can send me an e-mail: [claudiozandonella@gmail.com](claudiozandonella@gmail.com)
 
 
 
