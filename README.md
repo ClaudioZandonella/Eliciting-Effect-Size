@@ -31,7 +31,7 @@ In the first part of the App code you find the "Customizable Settings" section w
 
 <br>
 
-For any other further information you can send me an e-mail: [claudiozandonella@gmail.com](claudiozandonella@gmail.com)
+For any other further information you can send me an e-mail: claudiozandonella@gmail.com
 
 
 
